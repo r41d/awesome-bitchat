@@ -1,5 +1,12 @@
 # awesome-bitchat
 
+## Resources
+
+* [Official website](https://bitchat.free/)
+* [Whitepaper](https://github.com/permissionlesstech/bitchat/blob/main/WHITEPAPER.md)
+* [iOS client](https://apps.apple.com/us/app/bitchat-mesh/id6748219622)
+* [Android client](https://github.com/permissionlesstech/bitchat-android/releases)
+
 ## Clients
 
 * [Original iOS client](https://github.com/permissionlesstech/bitchat)
